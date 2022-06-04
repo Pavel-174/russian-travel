@@ -6,6 +6,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    text-decoration: none;
 }
 .cover:hover .cover__background{
     opacity: 0.8;
