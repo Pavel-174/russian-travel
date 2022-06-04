@@ -7,11 +7,6 @@
     margin-right: 48px;
     padding: 0;
 }
-@media screen and (min-width: 1024px) and (max-width: 1279.9px){
-    .header__lang-links{
-        margin-right: 24px;
-    }
-}
 @media screen and (min-width: 768px) and (max-width: 1023.9px){
     .header__lang-links{
         margin-right: 24px;

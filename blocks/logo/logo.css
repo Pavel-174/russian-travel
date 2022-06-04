@@ -4,11 +4,6 @@
     margin-top: 28px;
     margin-left: 48px;
 }
-@media screen and (min-width: 1024px) and (max-width: 1279.9px){
-    .logo{
-        margin-left: 24px;
-    }
-}
 @media screen and (min-width: 768px) and (max-width: 1023.9px){
     .logo{
         margin-left: 24px;
